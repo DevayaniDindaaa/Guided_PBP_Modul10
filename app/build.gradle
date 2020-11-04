@@ -30,4 +30,9 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
+    //Library ShapeImage
+    compile 'com.github.siyamed:android-shape-imageview:0.9.+@aar'
+
+    //Library Material Design
+    implementation 'com.google.android.material:material:1.2.0'
 }
