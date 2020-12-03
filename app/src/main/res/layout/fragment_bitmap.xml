@@ -20,8 +20,7 @@
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:src="@drawable/image2"
-        app:siShape="@drawable/hexagon_vector"
-        app:siSquare="true"/>
+        app:siShape="@drawable/hexagon_vector" />
 
     <com.github.siyamed.shapeimageview.mask.PorterShapeImageView
         android:layout_gravity="center_horizontal"
@@ -30,5 +29,5 @@
         android:layout_height="150dp"
         android:src="@drawable/image3"
         app:siShape="@drawable/star_vector"
-        app:siSquare="true"/>
+        app:siSquare="true" />
 </LinearLayout>
